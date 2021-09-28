@@ -1,0 +1,19 @@
+#talle {
+    background-color: white;
+    border-color: gold;
+    color: black; }
+
+    .boton {
+        padding: 0.4rem;
+        border-color: gold;
+        background-color: white;
+        border-radius: 0.2rem;
+        cursor: pointer;
+        font-weight: 700;
+        font-size: 0.80rem;
+        font-family: "Inconsolata", monospace; }
+        .boton:hover {
+          border-color: white;
+          color: gold;
+          background-color: black;
+          transition: 300ms linear; }
