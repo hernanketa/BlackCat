@@ -9,9 +9,10 @@
         background-color: white;
         border-radius: 0.2rem;
         cursor: pointer;
+        width: 100%;
         font-weight: 700;
         font-size: 0.80rem;
-        font-family: "Inconsolata", monospace; }
+        font-family: 'Josefin Sans', sans-serif;}
         .boton:hover {
           border-color: white;
           color: gold;
@@ -24,16 +25,22 @@
       margin:auto;
     }
 
-    .card{
+    .card-body{
       background-color: black;
     }
     
     .card-title{
+      font
       text-align: center
       font-weight: 700;
-        font-size: 1rem;
-        font-family: "Inconsolata", monospace;;
+        font-size: 1 rem;
+        font-family: 'Josefin Sans', sans-serif;
+        color:white;
     }
     .card-text{
       text-align: center;
+      font-family: 'Josefin Sans', sans-serif;
+      color:white;
     }
+
+    
