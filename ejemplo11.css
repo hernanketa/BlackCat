@@ -17,3 +17,9 @@
           color: gold;
           background-color: black;
           transition: 300ms linear; }
+
+    .img-example{
+      display: block;
+      width: 60%;
+      margin:auto;
+    }
