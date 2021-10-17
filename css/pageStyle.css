@@ -318,6 +318,16 @@ h3 {
   margin-top: 5rem;
 }
 
+.tituloPrincipalProductos {
+  color: #f5f0f0;
+  font-family: 'Kaushan Script', cursive;
+  font-size: 2rem;
+  -webkit-margin-after: 0;
+          margin-block-end: 0;
+  margin-top: 5rem;
+  text-align: center;
+}
+
 .titulo {
   color: #f5f0f0;
   font-family: 'Kaushan Script', cursive;
@@ -771,9 +781,74 @@ input[type="submit"] {
   padding-right: 3rem;
 }
 
-.container-productos {
-  margin-left: 20rem;
-  width: 50%;
+.grid-container {
+  display: -ms-grid;
+  display: grid;
+  margin: 40px 0 40px 0;
+  -ms-grid-columns: auto auto auto;
+      grid-template-columns: auto auto auto;
+  gap: 1.8rem 1rem;
+  text-align: center;
+  -webkit-box-pack: stretch;
+      -ms-flex-pack: stretch;
+          justify-content: stretch;
+  font-size: 1.5rem;
+}
+
+.card-remera {
+  width: 330px;
+  height: 430px;
+  border-radius: 8px;
+  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+          box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+  text-align: center;
+  -webkit-transition: all 0.25s;
+  transition: all 0.25s;
+}
+
+.grid-container .card-remera:hover {
+  -webkit-transform: translateY(-15px);
+          transform: translateY(-15px);
+  -webkit-box-shadow: 0 10px 12px rgba(255, 255, 255, 0.733);
+          box-shadow: 0 10px 12px rgba(255, 255, 255, 0.733);
+}
+
+.grid-container .card-remera img {
+  width: 330px;
+  height: 280px;
+}
+
+.grid-container .card-remera h4 {
+  font-weight: 600;
+}
+
+.grid-container.card-remera p {
+  padding: 0 1rem;
+  font-size: 16px;
+  font-weight: 300;
+}
+
+.card-boton {
+  padding: 0.4rem;
+  margin-top: 0.1;
+  border-color: gold;
+  background-color: white;
+  border-radius: 0.2rem;
+  cursor: pointer;
+  width: 90%;
+  height: 3rem;
+  font-weight: 700;
+  font-size: 1.2rem;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.boton:hover {
+  border-color: white;
+  color: gold;
+  background-color: black;
+  -webkit-transition: 300ms linear;
+  transition: 300ms linear;
 }
 
 /*MEDIA QUERY*/
