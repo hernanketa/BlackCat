@@ -455,8 +455,25 @@ input:focus {
 
 /*Footer*/
 footer {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: 'Josefin Sans', sans-serif;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  letter-spacing: 0.03em;
+  line-height: 1.6;
+}
+
+footer ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+footer {
   background-color: black;
-  color: white;
+  color: #bbb;
   line-height: 1.5;
 }
 
@@ -469,23 +486,22 @@ a:hover {
   text-decoration: underline;
 }
 
-.ftTitle {
+.ft-title {
   color: #fff;
   font-family: "Merriweather", serif;
   font-size: 1.375rem;
   padding-bottom: 0.625rem;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
 }
 
-.ftMain li {
-  -webkit-box-pack: space-evenly;
-      -ms-flex-pack: space-evenly;
-          justify-content: space-evenly;
+/* Sticks footer to bottom */
+.container {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
 }
 
-.ftMain {
+/* Footer main */
+.ft-main {
   padding: 1.25rem 1.875rem;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -494,52 +510,56 @@ a:hover {
       flex-wrap: wrap;
 }
 
-.ftMainItem {
+.ft-main a:hover {
+  color: gold;
+}
+
+@media only screen and (min-width: 29.8125rem) {
+  .ft-main {
+    -webkit-box-pack: space-evenly;
+        -ms-flex-pack: space-evenly;
+            justify-content: space-evenly;
+  }
+}
+
+@media only screen and (min-width: 77.5rem) {
+  .ft-main {
+    -webkit-box-pack: space-evenly;
+        -ms-flex-pack: space-evenly;
+            justify-content: space-evenly;
+  }
+}
+
+.ft-main-item {
   padding: 1.25rem;
   min-width: 12.5rem;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
 }
 
-.ftMainItem a {
-  color: white;
+/* Footer main | Newsletter form */
+footer form {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
 }
 
-.ftMainItemUbi {
-  padding: 1.25rem;
-  min-width: 12.5rem;
-}
-
-/* Footer */
-/* 
 input[type="email"] {
+  width: 20rem;
+  height: 3rem;
   border: 0;
   padding: 0.625rem;
   margin-top: 0.3125rem;
 }
- */
-.nav {
-  margin-top: 3rem;
-}
-
-.nav-link {
-  background-color: black;
-}
 
 input[type="submit"] {
-  background-color: #00d188;
+  background-color: gold;
   color: #fff;
   cursor: pointer;
   border: 0;
   padding: 0.625rem 0.9375rem;
   margin-top: 0.3125rem;
-}
-
-/* Footer social */
-.ftSocial {
-  padding: 0 1.875rem 1.25rem;
+  width: 100px;
 }
 
 .ft-social-list {
