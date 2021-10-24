@@ -570,6 +570,9 @@ input[type="submit"] {
   display: block; 
 }
 
+.galleryConItem img{
+  border-radius: 5px;
+}
 .galleryConItem--1 {
   grid-column-start: 1;
   grid-column-end: 3;
@@ -640,6 +643,9 @@ input[type="submit"] {
   flex-wrap: wrap;
   color:white;
 }
+.gallery-vinculos a:hover{
+  color: gold;
+  }
 
 .gallery__pantalones{
   padding-right:  8.5rem;

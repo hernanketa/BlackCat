@@ -691,6 +691,10 @@ input[type="submit"] {
   display: block;
 }
 
+.galleryConItem img {
+  border-radius: 5px;
+}
+
 .galleryConItem--1 {
   -ms-grid-column: 1;
       grid-column-start: 1;
@@ -779,6 +783,10 @@ input[type="submit"] {
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
   color: white;
+}
+
+.gallery-vinculos a:hover {
+  color: gold;
 }
 
 .gallery__pantalones {
