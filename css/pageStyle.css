@@ -397,6 +397,14 @@ h3 {
   margin-top: 2rem;
 }
 
+.container-formapago i {
+  margin-right: 0.5rem;
+}
+
+.container-formapago i:hover {
+  color: gold;
+}
+
 /*Linea correspondiente a formulario/contacto*/
 .listaContactos {
   border-radius: 1px solid;
@@ -533,6 +541,14 @@ a:hover {
 .ft-main-item {
   padding: 1.25rem;
   min-width: 12.5rem;
+}
+
+.ft-main-item i {
+  margin-right: 0.5rem;
+}
+
+.ft-main-item i:hover {
+  color: gold;
 }
 
 /* Footer main | Newsletter form */
