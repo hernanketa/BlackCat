@@ -387,3 +387,7 @@ body {
 li{
   list-style-type: none;
 }
+
+.boton-enviar{
+  background-color: gold;
+}
