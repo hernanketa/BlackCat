@@ -55,6 +55,23 @@
 .ftMain {
  margin: 1rem;
 }
+.marca-registrada{
+flex-direction: row;
+}
+.ft-social-list{
+  padding-left:20rem;
+}
+.ft-main{
+  margin-top:3rem;
+}
+.tituloPrincipalProductos{
+  margin-left:12rem;
+}
+
+table{
+  width:580px;
+}
+
 }
 
 
@@ -100,13 +117,30 @@
 
 @media (max-width: 375px)
 {
-
-
-    .container-trio{
-
-        width:200%;
+ 
+  body{
+    margin: 0;
+    padding: 0;
+  }
+  #carouselExampleIndicators{
+    width: 150%;
+  }
+   .carousel-inner{
+     width: 150%;
+   }
+   .carousel-indicator{
+    width: 150%;
+  }
+  .carousel-control-next .carousel-control-prev {
+    width: 300%;
+    margin-left: 9rem;
+  }
+    .cuerpoPagina p{
+     padding:0.75rem;
+    }
+        .inicioProductos{
+          width: 200%;
         }
-        
         //index
         .header {
             width: 200%;
@@ -139,7 +173,9 @@
            
             width: 250%;
         }
-
+          footer{
+            width:500px;
+          }
         .ftSocialList {
         padding-top: 2rem;
         }
@@ -154,7 +190,7 @@
            
         }
         
-        .ftLegalList {
+        .ft-legal {
             width: 100%;
             display: -webkit-box;
             display: -ms-flexbox;
@@ -175,8 +211,8 @@
         //servicios
         
         .contenedor-servicios {
-           width:200%;
-            height: 75vh;
+           width:150%;
+            height: 30vh;
             
         }
         
@@ -187,41 +223,47 @@
             width: 200%;
         }
         
-        #videos {
-            width: 200%;
-        }
+        
         
        //contactos
         
         .contenedor-contactos{
         
-            height: 70vh;
-            width: 200%;
+            height: 40vh;
+            width: 150%;
             }
 
             .titulo__contactos{
                 margin-top:2rem;
                 }
-
-        .contenedor-segmento{
-        width:200%
+      
+          .titulo{
+            margin-top: 8rem;
+          }
+          .subtitulo__segmento{
+            margin: 0;
+            padding: 0;
+          }
+          .container-form{
+            margin: 0;
+            padding: 0;
+          }
+          
+        .gallery-vinculos {
+            display: -webkit-box;
+            display: -ms-flexbox;
+            display: flex;
+            -ms-flex-pack: distribute;
+            justify-content: space-around;
+            -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+            color: white;
+            width: 350%;
         }
-}
+        }
 
-@media (max-width: 375px)
-{
-.gallery-vinculos {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-pack: distribute;
-    justify-content: space-around;
-    -ms-flex-wrap: wrap;
-    flex-wrap: wrap;
-    color: white;
-    width: 110%;
-}
-}
+
+
 
 
 

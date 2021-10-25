@@ -171,3 +171,16 @@ body {
   a:hover{
       color:gold;
   }
+
+  @media (max-width: 375px)
+  {
+    .container{
+          width:100px;
+          height:100px;
+          }
+.pre a{
+    width:200%;
+    height:50px;
+}        
+}
+  
