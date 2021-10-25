@@ -279,6 +279,7 @@ margin: 2rem;
     font-size: 2rem;
     margin-block-end: 0;
     margin-top: 5rem;
+    margin-bottom: 2rem;
    }
 
   .titulo__mediopagina{
@@ -341,6 +342,12 @@ margin: 2rem;
 
 .listaContactos{
   border-radius:1px solid;
+}
+
+.carousel-inner{
+height: 500px;
+
+border-radius: 3;
 }
 
 .formFooter {
