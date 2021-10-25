@@ -6,7 +6,7 @@ table {
     margin-top:3rem;
     width: 60%;
     table-layout: fixed;
-    ;
+    
   }
   
   table caption {
@@ -31,6 +31,10 @@ table {
     letter-spacing: .1em;
     text-transform: uppercase;
   }
+  table caption {
+    font-size: 1.3em;
+    color:white;
+  }
   
   @media screen and (max-width: 600px) {
     table {
@@ -38,7 +42,7 @@ table {
       margin-top:4rem;
       margin-left:5rem;
     }
-  
+
     table caption {
       font-size: 1.3em;
       color:white;
@@ -82,5 +86,5 @@ table {
     table td:last-child {
       border-bottom: 0;
     }
-  
+}
   

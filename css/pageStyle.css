@@ -140,6 +140,11 @@ h3 {
           flex-direction: column;
 }
 
+.contenedor-servicios p {
+  margin-top: 2rem;
+  padding-bottom: 1rem;
+}
+
 .contenedor-contactos {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -894,7 +899,6 @@ input[type="submit"] {
   -webkit-transition: 300ms linear;
   transition: 300ms linear;
 }
-
 
 /*MEDIA QUERY*/
 @media (max-width: 768px) {
