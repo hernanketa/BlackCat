@@ -94,6 +94,12 @@ color:black;
   padding: 7px 5px;
 }
 
+.subtitulo__segmento{
+  margin-top:2rem;
+  margin-bottom: 1rem;
+margin-left: 19rem;
+}
+
 .contenedor-nosotros{
 display: flex;
 justify-content: space-evenly;
@@ -308,6 +314,16 @@ margin: 2rem;
 
 .container-form{
   margin: 1px;
+  margin-left:25rem;
+  margin-bottom: 2rem;
+}
+
+.container-form label{
+  margin-top: 0.5rem;
+}
+.container-form button{
+  margin-left: 7rem;
+  width: 6rem;
 }
 
 .container-formapago{
@@ -457,7 +473,7 @@ input[type="email"] {
   margin-top: 0.3125rem;
 }
 input[type="submit"] {
-  background-color: gold;
+  
   color: #fff;
   cursor: pointer;
   border: 0;
