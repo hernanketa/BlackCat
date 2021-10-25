@@ -1,0 +1,203 @@
+commit 1c75d66ade79baf9a589dfb7fc22d40cb551e441 (HEAD -> cambiosblackcat, origin/cambiosblackcat)
+Author: hernan martinez <martinez.hernan.e@gmail.com>
+Date:   Mon Oct 25 00:50:24 2021 -0300
+
+    configuraciones mediaquery
+
+commit ae9d13daedaa55e3c3230d788b576385747610c2
+Author: hernan martinez <martinez.hernan.e@gmail.com>
+Date:   Sun Oct 24 22:59:39 2021 -0300
+
+    cambio de pagina raiz
+
+commit 55362df180b6e1afb91da99dfed674e8b933bc14
+Author: hernan martinez <martinez.hernan.e@gmail.com>
+Date:   Sun Oct 24 22:53:35 2021 -0300
+
+    carousel sobre nosotros
+
+commit fd22c2f35b0b9e7f62b334ab88edb50803d2c0d5
+Author: hernan martinez <martinez.hernan.e@gmail.com>
+Date:   Sun Oct 24 22:10:52 2021 -0300
+
+     cambios contactos/form
+
+commit dfa44ab5484b4b513c2c11c517359246eae6326b
+Author: hernan martinez <martinez.hernan.e@gmail.com>
+Date:   Sun Oct 24 21:58:25 2021 -0300
+
+    cambios en tablas.css/ajustes contenedor-servicios
+
+commit 43d3febd2783f380de7d4400fb1f6fe6db6af39b
+Author: hernan martinez <martinez.hernan.e@gmail.com>
+Date:   Sun Oct 24 21:52:30 2021 -0300
+
+    tablas/tablas.css
+
+commit fde112548492a5a8c519319c3e933b14e79d5d9a
+Author: hernan martinez <martinez.hernan.e@gmail.com>
+Date:   Sun Oct 24 20:54:33 2021 -0300
+
+    tabla de talles/cambio de servicio por talles
+
+commit f9b183c296df2afaf9bec0817691d698a9a46296
+Author: hernan martinez <martinez.hernan.e@gmail.com>
+Date:   Sun Oct 24 18:06:55 2021 -0300
+
+    cambios en servicios
+
+commit b030c0cdca770b8a4449ff3b12d761af332d5979
+Author: hernan martinez <martinez.hernan.e@gmail.com>
+Date:   Sun Oct 24 12:17:52 2021 -0300
+
+    cambios en fas-fa/hover/margin-right
+
+commit 5d16de5674e931c1845b0f764a22dc0362401863
+Author: hernan martinez <martinez.hernan.e@gmail.com>
+Date:   Sun Oct 24 12:04:48 2021 -0300
+
+    agregar footer total de paginas
+
+commit 3ba9214e890b8a3584594c37a09f3ffafdf9c41f
+Author: hernan martinez <martinez.hernan.e@gmail.com>
+Date:   Sun Oct 24 11:59:44 2021 -0300
+
+    cambios en footer
+
+commit 2a591feb50f9c772914eb6f8f3a7c9acf2531f9d
+Author: hernan martinez <martinez.hernan.e@gmail.com>
+Date:   Sun Oct 24 10:53:07 2021 -0300
+
+    presentacion/ footer
+
+commit 606f3e4b1ae182714196e2d60882f5a8d96e11da
+Author: hernan martinez <martinez.hernan.e@gmail.com>
+Date:   Sun Oct 24 09:56:03 2021 -0300
+
+    cambios pagestyle
+
+commit 0f3de2fdeba5418e33dd840fbf37531bf406e4ab
+Author: hernan martinez <martinez.hernan.e@gmail.com>
+Date:   Sun Oct 24 08:39:28 2021 -0300
+
+     cambio de productos/todos
+
+commit b46b9f457678e502a1d9e1b344b955cb4806284f
+Author: hernan martinez <martinez.hernan.e@gmail.com>
+Date:   Sun Oct 24 08:02:58 2021 -0300
+
+    cambios en todas las paginas /header/ style
+
+commit c6b617357d9e4c048a846405b773a69615ed8d38
+Author: hernan martinez <martinez.hernan.e@gmail.com>
+Date:   Sat Oct 23 22:05:03 2021 -0300
+
+    cambio en header all page
+
+commit 7d1a139326d74c704235b2a09e651677e845fd0e
+Author: hernan martinez <martinez.hernan.e@gmail.com>
+Date:   Sat Oct 23 22:02:12 2021 -0300
+
+    cambios color nav-item
+
+commit 35c462ff7f133a09b4cc1d62287b8b628defe457
+Author: hernan martinez <martinez.hernan.e@gmail.com>
+Date:   Sat Oct 23 18:47:04 2021 -0300
+
+    cambios en header pantalones/camisas/remeras
+
+commit a1955857a3cc0ad1ebdec6a8abf44797c0373f07
+Author: hernan martinez <martinez.hernan.e@gmail.com>
+Date:   Sun Oct 17 00:59:42 2021 -0300
+
+    cambios
+
+commit c416a9c8774f0f0abafbb2dab389951b5e5fe771
+Author: hernan martinez <martinez.hernan.e@gmail.com>
+Date:   Sun Oct 17 00:04:42 2021 -0300
+
+    navbar dark
+
+commit 490cdf1fd34fc08ed513b59780fd38ca473fb0bd
+Author: hernan martinez <martinez.hernan.e@gmail.com>
+Date:   Sat Oct 16 23:55:20 2021 -0300
+
+    barra navegacion-productos
+
+commit 6b4f68fd70964e86129bebbec1bd48e79480284f
+Author: hernan martinez <martinez.hernan.e@gmail.com>
+Date:   Sat Oct 16 23:37:02 2021 -0300
+
+    creación sección pantalones
+
+commit ef4c0b583a8f1dd2d7e108d1373e07a66cc60591
+Author: hernan martinez <martinez.hernan.e@gmail.com>
+Date:   Sat Oct 16 23:32:08 2021 -0300
+
+    cambio en imagenes de camisas 7/9
+
+commit ac07c4052031352e5326325f93acff6d87abe8bd
+Author: hernan martinez <martinez.hernan.e@gmail.com>
+Date:   Sat Oct 16 23:28:54 2021 -0300
+
+    creación sección camisas
+
+commit 6b0f641d57377a570f0c6e90ec5e8676450a3ed6
+Author: hernan martinez <martinez.hernan.e@gmail.com>
+Date:   Sat Oct 16 23:21:53 2021 -0300
+
+    creación de sección remeras
+
+commit fb88d9fd8d314170f3a628f09070b877ae846419
+Author: hernan martinez <martinez.hernan.e@gmail.com>
+Date:   Sat Oct 16 23:00:40 2021 -0300
+
+    cambios en productos
+
+commit f28f5607de10ca829e82ddc9ba9e0671aceafb96
+Author: hernan martinez <martinez.hernan.e@gmail.com>
+Date:   Sat Oct 16 17:17:30 2021 -0300
+
+    cambio de fuente y letra
+
+commit 7b9e59b87cbfb48ecda8a13a87c8ebdf51ac6eb4
+Author: hernan martinez <martinez.hernan.e@gmail.com>
+Date:   Sat Oct 16 16:28:51 2021 -0300
+
+    estilos card2
+
+commit 8c25764242e490900290606b91534bc38b699646
+Author: hernan martinez <martinez.hernan.e@gmail.com>
+Date:   Sat Oct 16 16:28:08 2021 -0300
+
+    estilos card
+
+commit 0d4bd47759012aac5e5acf9a4dbf6dbe383018fd
+Author: hernan martinez <martinez.hernan.e@gmail.com>
+Date:   Sat Oct 16 15:48:17 2021 -0300
+
+    cambio nuevo
+
+commit 03b68c4106564e67da91275d77be8c9e0fba8630
+Author: hernan martinez <martinez.hernan.e@gmail.com>
+Date:   Sat Oct 16 13:47:49 2021 -0300
+
+    cambio en ejemplo11
+
+commit ba55194ca94c37995b8458e4344673484afba545
+Author: hernan martinez <martinez.hernan.e@gmail.com>
+Date:   Wed Sep 29 19:23:55 2021 -0300
+
+    cambios realizados en las 5 paginas .html para visualizar estilo e imagenes en github
+
+commit 45c5a5e4044dc3bbad646fa2fa11390da203ec5c (rama-secundaria)
+Author: hernan martinez <martinez.hernan.e@gmail.com>
+Date:   Tue Sep 28 13:13:49 2021 -0300
+
+    agregue descripcion a pantalones
+
+commit fdad1cf3ffbebb2ad2f4abf18ad5c39245395309
+Author: hernan martinez <martinez.hernan.e@gmail.com>
+Date:   Mon Sep 27 23:42:08 2021 -0300
+
+    primera carga a git
